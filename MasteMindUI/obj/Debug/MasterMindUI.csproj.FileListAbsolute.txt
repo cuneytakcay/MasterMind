@@ -1,0 +1,9 @@
+C:\Users\akcay\OneDrive\Documents\Visual Studio 2017\Projects\Completed\MasteMind\MasteMindUI\obj\Debug\MasterMindUI.csprojResolveAssemblyReference.cache
+C:\Users\akcay\OneDrive\Documents\Visual Studio 2017\Projects\Completed\MasteMind\MasteMindUI\obj\Debug\MasterMindUI.MasterMindForm.resources
+C:\Users\akcay\OneDrive\Documents\Visual Studio 2017\Projects\Completed\MasteMind\MasteMindUI\obj\Debug\MasteMindUI.Properties.Resources.resources
+C:\Users\akcay\OneDrive\Documents\Visual Studio 2017\Projects\Completed\MasteMind\MasteMindUI\obj\Debug\MasterMindUI.csproj.GenerateResource.Cache
+C:\Users\akcay\OneDrive\Documents\Visual Studio 2017\Projects\Completed\MasteMind\MasteMindUI\obj\Debug\MasteMindUI.exe
+C:\Users\akcay\OneDrive\Documents\Visual Studio 2017\Projects\Completed\MasteMind\MasteMindUI\obj\Debug\MasteMindUI.pdb
+C:\Users\akcay\OneDrive\Documents\Visual Studio 2017\Projects\Completed\MasteMind\MasteMindUI\bin\Debug\MasteMindUI.exe.config
+C:\Users\akcay\OneDrive\Documents\Visual Studio 2017\Projects\Completed\MasteMind\MasteMindUI\bin\Debug\MasteMindUI.exe
+C:\Users\akcay\OneDrive\Documents\Visual Studio 2017\Projects\Completed\MasteMind\MasteMindUI\bin\Debug\MasteMindUI.pdb
