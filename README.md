@@ -2,6 +2,8 @@
 
 Mathematics Mastermind is a desktop game built with C#. Game is similar to Mastermind board game except numbers are used in this version. Computer generates a 4-digit-number and the player tries to guess it. 
 
+![master_mind_image](https://user-images.githubusercontent.com/25511541/39486316-8de9baa2-4d30-11e8-8aa8-c2cdc5557107.JPG)
+
 ## How to play
 1. Press "Start" button, and the computer will generate a non-repeating 4-digit-number.
 2. Enter your guess and press the blue button.
