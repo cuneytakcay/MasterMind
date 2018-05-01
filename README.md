@@ -8,9 +8,12 @@ Mathematics Mastermind is a desktop game built with C#. Game is similar to Maste
 3. After each guess computer will tell you how close your guess is to the original number.
 
 ***Example:*** 
-    Original number = 3710
-    Player's guess = 3192
-    Result = +1 -1
+
+Original number = 3710
+
+Player's guess = 3192
+
+Result = +1, -1
     
 *Here + 1 tells that the player got one digit in its original place, and -1 tells that another digit is guessed correctly, except it is not on its original place.*
 
