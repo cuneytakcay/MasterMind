@@ -20,7 +20,9 @@ namespace MasterMindUI
         {
             InitializeComponent();
         }
-
+        
+        // Clicking start button will generate non-repeating 4 digit number
+        // Game console will be ready for the player's guesses
         private void buttonStart_Click(object sender, EventArgs e)
         {
             Random rnd = new Random();
@@ -64,7 +66,7 @@ namespace MasterMindUI
             {
                 MessageBox.Show("Press Start first!");
             }
-
+            // Prevent invalid entry with validateForm function
             else if (validateForm())
             {
                 matchNumber();
@@ -85,7 +87,7 @@ namespace MasterMindUI
             textBoxNo3.Text = "";
             textBoxNo4.Text = "";
         }
-
+        // Validate if the entered umbers are valid
         private bool validateForm()
         {
             bool valid = true;
@@ -186,7 +188,7 @@ namespace MasterMindUI
                 buttonPlay.Enabled = false;
             }            
         }
-
+        // Bottom buttons will change color as clicked
         private void button0_Click(object sender, EventArgs e)
         {
             switchColor(button0);
@@ -236,7 +238,7 @@ namespace MasterMindUI
         {
             switchColor(button9);
         }
-
+        // Color change: gray->green->red
         private void switchColor(Button button)
         {
             if (button.BackColor.Name == "ButtonHighlight")
