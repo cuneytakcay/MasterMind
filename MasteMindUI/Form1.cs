@@ -59,7 +59,7 @@ namespace MasterMindUI
             gameStarted = true;
             buttonPlay.Enabled = true;
         }
-
+        // Player must enter valid numbers to press play button
         private void buttonPlay_Click(object sender, EventArgs e)
         {
             if (!gameStarted)
@@ -130,7 +130,10 @@ namespace MasterMindUI
 
             return valid;
         }
-
+        // Player's guess is matched to the comp. generated number
+        // If the number and its position guessed correctly => fullMatch
+        // If the number is correct but the position is not => semiMatch
+        // Count the number of matches to give hint to the player
         private void matchNumber()
         {
             int fullMatch = 0;
